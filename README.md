@@ -4,12 +4,12 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](iglioliveira87@outlook.com)
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Iglisson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iglisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglisson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
